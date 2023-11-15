@@ -1,2 +1,2 @@
 # Wordpress - ignore core, configuration, examples, uploads and logs.
-/node_modules
+node_modules/
